@@ -36,7 +36,7 @@ Make sure your folder has these two files saved together:
 - mail_data.csv (The dataset containing spam and ham examples)
 
 ### 3. Run the Program
-Start the detector by running:
+Start the detector by running below line in terminal:
 ```bash
 python home.py
 ```
