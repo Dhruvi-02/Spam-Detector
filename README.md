@@ -14,7 +14,7 @@ Unlike basic keyword filters, this tool analyzes the context of the entire messa
 
 ---
 
-## 🛠️ What You Need (Tech Stack)
+## 🛠️ Tech Stack
 
 * **Python 3**
 * **Pandas** (for loading and handling the CSV data)
