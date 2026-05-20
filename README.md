@@ -19,6 +19,7 @@ Unlike basic keyword filters, this tool analyzes the context of the entire messa
 * **Python 3**
 * **Pandas** (for loading and handling the CSV data)
 * **Scikit-Learn** (for training the Machine Learning model)
+* **AI Productivity Tools**
 
 ---
 
