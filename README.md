@@ -43,7 +43,7 @@ python home.py
 
 ## 📊 How it Works
 
-1. ​Loads & Cleans Data: Reads the CSV file and converts all text to lowercase so case-sensitivity doesn't mess up predictions.
-​2. Trains the Model: Splits the data into an 80% training set and a 20% testing set, using a Logistic Regression model.
-​3. Tests Live Text: Runs a few built-in sample tests to demonstrate its accuracy.
-​4. User Input: Prompts you to type a message and outputs a definitive answer alongside a "Spam Confidence Score" percentage.
+- ​Loads & Cleans Data: Reads the CSV file and converts all text to lowercase so case-sensitivity doesn't mess up predictions.
+- Trains the Model: Splits the data into an 80% training set and a 20% testing set, using a Logistic Regression model.
+- Tests Live Text: Runs a few built-in sample tests to demonstrate its accuracy.
+- User Input: Prompts you to type a message and outputs a definitive answer alongside a "Spam Confidence Score" percentage.
